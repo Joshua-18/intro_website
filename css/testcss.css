@@ -1,12 +1,21 @@
 body{
     background-color: cornflowerblue
 }
+
+
 h1{
-    font-size: 30px;
-    color: indianred
+    text-align: center;
+    font-size: 60px;
+    color: burlywood;
+    font-family: sans-serif;
 }
 
 h2{
-    font-size: 20px;
-    color: royalblue
+    font-size: 25px;
+    color: gold
+}
+p{
+    font-family: 'Grandstander', cursive;
+    font-size: 18px;
+
 }
